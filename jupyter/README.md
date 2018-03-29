@@ -4,7 +4,7 @@
 
 ```bash
 apt-get --assume-yes install ruby-full
-python3 -m pip install matplotlib
+python3 -m pip install matplotlib scipy
 ```
 
 

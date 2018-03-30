@@ -8,5 +8,5 @@ python3 -m pip install matplotlib scipy
 ```
 
 
-* [Signal Processing](https://github.com/unpingco/Python-for-Signal-Processing)  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WatPro/binder-workspace/master?filepath=jupyter%2FPython-for-Signal-Processing) 
+* [Signal Processing](https://github.com/unpingco/Python-for-Signal-Processing)  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WatPro/binder-workspace/master?filepath=jupyter%2Funpingco%2FPython-for-Signal-Processing) 
 

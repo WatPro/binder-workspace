@@ -16,4 +16,4 @@ Connect to IBM cloud services such as IBM Cloudant and IBM Softlayer.
  
 Connect to external cloud services such as Amazon S3, Dropbox, and Twitter. 
 
-*Tutorials downloaded from IBM's Cognitive Class Virtual Lab. Most documents were finished in 2016, so there may be new development since then.*
+*Tutorials downloaded from IBM's Cognitive Class Virtual Lab. Most documents were finished in 2015, so there may be new development since then.*

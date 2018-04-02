@@ -1,15 +1,15 @@
 
 ## Learn to work with Databases in Jupyter 
 
-### Connect to dashDB and DB2 
+#### Connect to dashDB and DB2 
 
 Learn how to access dashDB or DB2 databases. 
 
-### Connect to MySQL
+#### Connect to MySQL
 
 Learn how to access MySQL databases.
 
-### Connect to PostgreSQL 
+#### Connect to PostgreSQL 
 
 Learn how to access PostgreSQL databases. 
 
